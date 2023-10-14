@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! I am Alexander 👋
+
+My name is Alexander and I am a Front-end developer student at Noroff
+
+## My experience
+- HTML & CSS
+- Javascript
+- Photoshop
+- Illustrator
+
+## Currently learning
+- Javascript
+- Spline
 
 <!--
 **Zaracki/Zaracki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
