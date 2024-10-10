@@ -7,10 +7,14 @@ My name is Alexander and I am a Front-end developer student at Noroff
 - Javascript
 - Photoshop
 - Illustrator
+- React
+- Bootstrap
+- Tailwind
 
 ## Currently learning
-- Javascript
-- Spline
+- React
+- COBOL
+  
 
 <!--
 **Zaracki/Zaracki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
